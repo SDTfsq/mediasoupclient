@@ -1,0 +1,1 @@
+/usr/bin/g++ -fvisibility=hidden -rdynamic CMakeFiles/test_sdptransform.dir/tests.cpp.o CMakeFiles/test_sdptransform.dir/parse.test.cpp.o -o test_sdptransform  ../libsdptransform.a 

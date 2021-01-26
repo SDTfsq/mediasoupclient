@@ -1,0 +1,1 @@
+/usr/bin/g++ -fvisibility=hidden -rdynamic CMakeFiles/sdptransform_readme_helper.dir/readme.cpp.o -o sdptransform_readme_helper  ../libsdptransform.a 
